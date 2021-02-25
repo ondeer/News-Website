@@ -1,0 +1,42 @@
+
+
+.kayan{
+	margin-top:75px;
+	
+}
+
+
+.haber{
+	margin-top:15px;
+	}
+	
+.haber img{
+	height:200px;
+	padding-top:5px;
+	}
+.footer{
+	margin-top:28px;
+	
+	background-color:#333;
+	height:150px;}
+		.adres{
+		padding-top:7px;}
+		.sosyal{
+			padding-top:7px;
+			}
+	.row{
+		
+		height:300px;}
+		.row img:hover{
+			opacity:0.7;
+			}
+
+span.info{
+    margin-left: 10px;
+    color:black;
+    font-size: 11px;
+    font-family:serif;
+    font-weight:bold;
+}
+			
+              

@@ -1,0 +1,23 @@
+   .vide{
+	   margin-top:65px;}
+  
+.footer{
+	margin-top:28px;
+
+	background-color:#333;
+	height:150px;}
+		.adres{
+		padding-top:7px;}
+		.sosyal{
+			padding-top:7px;
+			}
+			
+	.row img{
+		padding-top:10px;
+		padding-left:20px;
+		padding-bottom:15px;
+		opacity:0.5;
+		}
+		.row img:hover{
+			opacity:1;}
+		

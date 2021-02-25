@@ -1,0 +1,25 @@
+.footer{
+	margin-top:28px;
+
+	background-color:#333;
+	height:150px;}
+		.adres{
+		padding-top:7px;}
+		.sosyal{
+			padding-top:7px;
+			}
+			.row:hover{
+				
+				background-color:#333;
+				color:#FFF;}
+				.row{
+					margin-top:30px;}
+					#başlık:hover{
+						font-size:36px;}
+
+  
+#spor a{
+    color: black;
+    
+}
+   
